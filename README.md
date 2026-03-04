@@ -46,3 +46,15 @@ Screenshot:
 - Password reset
 - Identity administration
 - Tier-1 helpdesk workflow
+
+---
+
+### 3. Block User Sign-In
+
+Simulated disabling a compromised user account.
+
+This is a common Tier-1 helpdesk action when a user account is suspected of being compromised or when access must be temporarily revoked.
+
+Screenshot:
+
+![Block Sign In](screenshots/03-block-signin.png)
