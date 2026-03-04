@@ -1,60 +1,57 @@
 # Microsoft 365 / Entra Helpdesk Lab
 
-## Overview
+## Quick Proof (Screenshots)
+![User Created](screenshots/user-created.png)
+![Password Reset](screenshots/password-reset.png)
+![Block Sign-In](screenshots/block-sign-in.png)
 
+## Overview
 This lab demonstrates common Tier-1 helpdesk tasks performed in Microsoft 365 / Entra ID.
 
 The goal is to simulate real helpdesk actions such as creating users and resetting passwords inside the Microsoft 365 Admin Center.
 
 ## Environment
-
-Microsoft 365 Business Premium Trial  
-Microsoft 365 Admin Center  
-Entra ID (Identity Management)
+- Microsoft 365 Business Premium Trial
+- Microsoft 365 Admin Center
+- Entra ID (Identity Management)
 
 ## Tasks Performed
 
-### 1. Create a User
-
+### 1) Create a User
 A new user account was created inside the Microsoft 365 Admin Center.
 
 Example user:
-
-John Smith  
-jsmith@m365practice01.onmicrosoft.com
+- John Smith
+- jsmith@m365practice01.onmicrosoft.com
 
 Screenshot:
-
-![User Created](screenshots/01-user-created.png)
+![User Created](screenshots/user-created.png)
 
 ---
 
-### 2. Reset User Password
-
+### 2) Reset User Password
 Simulated a common helpdesk task by resetting the user's password.
 
 Screenshot:
-
-![Password Reset](screenshots/02-password-reset.png)
+![Password Reset](screenshots/password-reset.png)
 
 ---
 
-### 3. Block User Sign-In
-
+### 3) Block User Sign-In
 Simulated disabling a compromised user account.
 
 This is a common Tier-1 helpdesk action when a user account is suspected of being compromised or when access must be temporarily revoked.
 
 Screenshot:
-
-![Block Sign In](screenshots/03-block-signin.png)
+![Block Sign In](screenshots/block-sign-in.png)
 
 ---
 
 ## Skills Demonstrated
-
 - Microsoft 365 Admin Center
 - User management
 - Password reset
-- Identity administration
+- Identity administration (Entra ID)
 - Tier-1 helpdesk workflow
+
+## Repository Structure
