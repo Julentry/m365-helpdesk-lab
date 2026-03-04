@@ -3,7 +3,7 @@
 ## Quick Proof (Screenshots)
 ![User Created](screenshots/01-user-created.png)
 ![Password Reset](screenshots/02-password-reset.png)
-![Block Sign-In](screenshots/03-block-sign-in.png)
+![Block Sign-In](screenshots/03-block-signin.png)
 
 ## Overview
 This lab demonstrates common Tier-1 helpdesk tasks performed in Microsoft 365 / Entra ID.
@@ -43,7 +43,7 @@ Simulated disabling a compromised user account.
 This is a common Tier-1 helpdesk action when a user account is suspected of being compromised or when access must be temporarily revoked.
 
 Screenshot:
-![Block Sign In](screenshots/03-block-sign-in.png)
+![Block Sign In](screenshots/03-block-signin.png)
 
 ---
 
